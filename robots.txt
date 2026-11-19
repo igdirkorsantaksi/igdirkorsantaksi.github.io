@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://igdirkorsantaksi.github.io/sitemap.xml

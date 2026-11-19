@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Iğdır Korsan Taksi | Havalimanı, Dilucu ve Ağrı Dağı</title>
+  <link href="https://igdirkorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://igdirkorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://igdirkorsantaksi.github.io/</id>
+  <updated>2026-11-19T02:40:08.981Z</updated>
+  <author><name>Iğdır Korsan Taksi</name></author>
+  <entry>
+    <title>Iğdır Korsan Taksi | Havalimanı, Dilucu ve Ağrı Dağı</title>
+    <link href="https://igdirkorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://igdirkorsantaksi.github.io/</id>
+    <updated>2026-11-19T02:40:08.981Z</updated>
+    <summary>Iğdır korsan taksi: Şehit Bülent Aydın Havalimanı merkezden 18 km, Dilucu Sınır Kapısı ve Aralık, Tuzluca, Karakoyunlu, Doğubayazıt ve Ağrı Dağı yolu.</summary>
+  </entry>
+</feed>
